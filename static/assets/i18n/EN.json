@@ -1,0 +1,56 @@
+{
+    "Bienvenue sur": "Welcome to",
+    "Cette application sert d'aide à la décision pour le médécin. Il ne le remplacera jamais":"This application serves as a decision aid for the doctor. He will never replace it",
+    "Formulaire":"Survey",
+    "Age":"Age in years",
+
+    "Sexe":"Gender",
+    "Homme":"Male",
+    "Femme":"Female",
+
+    "Niveau de douleur à la poitrine":"Chest pain type",
+    "Angine de poitrine typique":"Typical angina",
+    "Angine de poitrine atypique":"Atypical angina",
+    "Douleur pas due à l'angine":"Non-angina pain",
+    "Asymptomatique":"Asymptomatic",
+
+    "Pression artérielle au repos en":"Resting blood pressure in",
+    "Pression artérielle au repos":"Resting blood pressure",
+
+    "Cholestérol Sérique":"Serum cholesterol",
+
+    "La pression artérielle à jeun est-elle supérieure à":"Is Fasting blood pressure greater than",
+    "oui":"yes",
+    "non":"no",
+
+    "Résultats électrocardiographiques au repos":"Resting electrocardiographic results",
+    "Ayant ST-T":"Having ST-T",
+    "Hypertrophie":"Hypertrophy",
+
+    "Fréquence cardiaque maximale atteinte":"Maximum heart rate achieved",
+
+    "Angine induite par l'effort":"Exercise induced angina",
+
+    "induite par l'exercice par rapport au repos":"induced by exercise relative to rest",
+    "Sous décalage du segment ST":"ST depression",
+
+    "Pente du segment ST surant l'effort maximal":"The slope of the peak exercise ST segment",
+    "Montée":"Upsloping",
+    "Plate":"Flat",
+    "Descente":"Downsloping",
+
+    "Nombre de grands vaisseaux colorés par la fluoroscopie":"Number of major vessels colored by flouroscopy",
+    "Thalassémie":"Thalassemia",
+    "Defaut corrigé":"Fixed defect",
+    "Defaut reversible":"Reversable defect",
+
+    "Annuler":"Cancel",
+    "Valider":"Submit",
+    
+    "Résultats":"Results",
+    "Le patient a une probabilité de":"The patient has a probability of",
+    "d'être atteint d'une maladie cardiaque. Il doit être traité":"of having heart disease. He must be treated",
+    "d'être en bonne santé":"to be healthy",
+    "Le formulaire est bien validé":"The form is validated",
+    "d'être atteint d'une maladie cardiaque. Il est en bonne santé":"of having heart disease. He seems to be healthy"
+    }
