@@ -2,7 +2,8 @@
 
 ## Description of the project
 
-Read the .pdf **MLPC_Heart_Disease_Prediction.pdf**
+This project realized within the frame of the Machine Learning Project Competition presents a decision-making aid system useful for cardiologists to determine patients suffering from cardiac diseases.
+The full description is presented on **MLPC_Heart_Disease_Prediction.pdf**
 
 
 
